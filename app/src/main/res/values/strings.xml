@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E-Library App</string>
+    <string name="Login">Login</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="E_Library">E_Library</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="e_library">E Library</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="download_free_ebooks">Download Free Ebooks</string>
+</resources>
